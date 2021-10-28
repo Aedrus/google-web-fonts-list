@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,MAAM,CAAC;EACL,UAAU,EAAE,KAAK;EACjB,KAAK,EAAE,GAAG;CACX",
+    "sources": [
+        "../../app/scss/main.scss",
+        "../../app/scss/utilities/_variables.scss",
+        "../../app/scss/layout/_header.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
