@@ -1,5 +1,6 @@
 // REMINDER: When we use "@use" we are bringing a style into a file to be used in that specific file. When we use "@forward" we are bringing a specific style into a file and then send them out as one style (ex. the index file). The index file is used for collecting the partials within a folder and when you call that folder the index file is used and calls all partials forwarded within the index.
 
-@import 'utilities/variables';
-@import 'layout/header'
+@import 'utils/variables';
+@import 'layout/header';
+@import 'base/base';
 // @use 'layout/header';

@@ -1,5 +1,19 @@
 header {
-  background: brown;
+  background: white;
   color: red;
+}
+
+.top-bar {
+  padding: 20px;
+}
+
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: #f0f0f0;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  line-height: 13px;
 }
 /*# sourceMappingURL=main.css.map */
