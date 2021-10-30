@@ -52,7 +52,7 @@ After setting up some scss files, I set out to design the header, or top nav bar
 * Setting globals for margin and padding to remove space around header.
 * Set flex in _grid.scss for justify content and align content to align header in top bar.
 
-## top to Bottom: The Cards
+## Top to Bottom: The Cards
 Once the top header is done, I start designing the cards that make up each google font. I worked on the following:
 * Setting a white background for the card as well as a box shadow to make it stand out.
 * Margins to push it away from edges of the viewport and other cards.
