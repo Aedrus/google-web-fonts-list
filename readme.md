@@ -53,7 +53,7 @@ After setting up some scss files, I set out to design the header, or top nav bar
 * Set flex in _grid.scss for justify content and align content to align header in top bar.
 
 ## Top to Bottom: The Cards
-Once the top header is done, I start designing the cards that make up each google font. I worked on the following:
+Once the top header was done, I started designing the cards that make up each google font. I worked on the following:
 * Setting a white background for the card as well as a box shadow to make it stand out.
 * Margins to push it away from edges of the viewport and other cards.
 * Padding to add "padding" within the card, increasing white space between the inner text.
@@ -63,4 +63,4 @@ Once the top header is done, I start designing the cards that make up each googl
 I then imported all of the google fonts within the _type.scss file and applied them via classes. This part was relatively simple compared to the rest. The font were broken into two sections: sans serif and serif.
 
 ## Wrapping It Up
-To finish it off, I added simple css animations to the font cards, cards for importing the font, and a footer.
+To finish it off, I added simple css animations to the font cards, cards for importing the font, and a footer. To see all of these details, you can download the repository and view the page as an html document, otherwise the link at the top offers a barebones format for quick reading.
