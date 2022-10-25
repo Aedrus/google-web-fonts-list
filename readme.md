@@ -1,6 +1,9 @@
 # Google Web Fonts | A List for Developers
 View list: https://619bfc86515892816bd8a83e--angry-brahmagupta-f007bf.netlify.app/
 
+### Update 10/25/2022
+Website has been rebuilt with simpler code to make website easier to setup with Github Pages (Reverted back to vanilla CSS). Additionally, new fonts have been added and UX/UI has been overhauled for a new design.
+
 ## Introduction
 This simple webpage was created to store all of the google fonts that I have discovered throughout my web development journey and will serve as a iterative list of new fonts. It was also another way for me to practice new ideas and code schemes; therefore, I've added notes for the various practices i've learned and implemented in the list itself.
 
